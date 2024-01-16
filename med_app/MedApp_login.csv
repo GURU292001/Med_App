@@ -1,0 +1,17 @@
+"login_id","user_id","password","role","created_by","created_date","updated_by","updated_date"
+1,biller,pass,Biller,jerish,2022-06-10,jerish,2022-06-10
+2,biller1,pass,Biller,jerish,2022-06-10,jerish,2022-06-10
+3,biller2,pass,Biller,jerish,2022-06-10,jerish,2022-06-10
+4,manager,pass,Manager,jerish,2022-06-10,jerish,2022-06-10
+5,admin,pass,System Admin,jerish,2022-06-10,jerish,2022-06-10
+6,inventory,pass,Inventory,jerish,2022-06-10,jerish,2022-06-10
+9,jerish1,pass,System Admin,admin,2023-06-21,admin,2023-06-21
+10,jkihgh,"15451",Biller,admin,2023-06-21,admin,2023-06-21
+11,god,god,System Admin,admin,2023-06-26,admin,2023-06-26
+12,praba,"123",Biller,admin,2023-06-26,admin,2023-06-26
+21,aarav,pass,System Admin,admin,2023-08-26,admin,2023-08-26
+22,arnav,pass1,System Admin,admin,2023-08-26,admin,2023-08-26
+24,                   ,                              ,Biller,admin,2023-08-26,admin,2023-08-26
+25,karthick,"123",System Admin,admin,2023-08-31,admin,2023-08-31
+26,NewBiller1,pass,Biller,admin,2023-09-01,admin,2023-09-01
+27,NewBiller2,pass2,Biller,admin,2023-09-01,admin,2023-09-01
