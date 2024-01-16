@@ -1,3 +1,3 @@
 # Med_App
 
-code by Guru
+code by Gurumurugan
